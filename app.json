@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mechealthylife",
+    "slug": "mechealthylife",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
